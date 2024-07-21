@@ -16,13 +16,14 @@ The following topics will be addressed with the project:
 ### Project Skeleton:
 
 ```
-    MOVIE_PROJECT (folder)
+    FoodProject (folder)
     |
     |---- img
     |       |---- *.jpg
+    |---- styles
+    |       |---- style.css
     |---- index.html
     |---- Readme.md
-    |---- style.css
     |---- *.gif
 ```
 
