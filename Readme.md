@@ -4,7 +4,8 @@
 It is planned to design a website with HTML and CSS.
 
 ## Objective
-At the end of the project, following topics are to be covered;
+The following topics will be addressed with the project:
+
 * HTML
 * CSS
 * Responsive Desing
