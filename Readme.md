@@ -28,6 +28,6 @@ The following topics will be addressed with the project:
 
 ### Project View Images:
 
-<img src="" alt="project_view_gif" style="width:800px">
+<img src="Video_240721213625.gif" alt="project_view_gif" style="width:800px">
 
 > Designed By DOGUKAN © July. 2024
