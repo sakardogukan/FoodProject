@@ -151,7 +151,7 @@ a {
 /*! home section start */
 .home {
     min-height: 130vh;
-    background: url("../img/home.jpg") no-repeat;
+    background: url("../FoodProject/img/home.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     margin-top: -14.5rem;
